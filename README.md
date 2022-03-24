@@ -8,9 +8,8 @@
 
 ✨Trinmw: _Is an Advance Whatsapp User-Bot!_
 
-<img img src="https://i.postimg.cc/KzKjcD50/vlkUvar.gif" />
+<img img src="https://i.postimg.cc/HkgWV4bW/trina.png" />
 
-<img img src="https://i.postimg.cc/bvNFpKfH/image.gif" />
 
 # 🍂𝐃𝐢𝐬𝐜𝐥𝐚𝐢𝐦𝐞𝐫
 
