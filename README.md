@@ -5,6 +5,7 @@
 [![Generic badge](https://img.shields.io/badge/🌐WEBSITE-white.svg)](https://VlkyreAI.krakinzkon.repl.co/)
 [![Generic badge](https://img.shields.io/badge/⛱️GROUPS-darkgreen.svg)](https://VlkyreAI.krakinzkon.repl.co/)
 
+/v:wkk^DRaA46Jn
 
 ✨Trinmw: _Is an Advance Whatsapp User-Bot!_
 
