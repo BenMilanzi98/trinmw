@@ -1,5 +1,10 @@
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)<img align="centre" src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg" alt="KryKnz"/><img align="centre" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/>
 
+
+Raganork~1b5d2abdbc305e29a67745ef776b30b7:75327a33797747725665733d
+
+
+
 # 🛰️[❝ ©Trinmw ❞](https://VlkyreAI.krakinzkon.repl.co/) 
 [![Generic badge](https://img.shields.io/badge/🚀HEROKU-purple.svg)](https://VlkyreAI.krakinzkon.repl.co/)
 [![Generic badge](https://img.shields.io/badge/🌐WEBSITE-white.svg)](https://VlkyreAI.krakinzkon.repl.co/)
